@@ -7,6 +7,7 @@ This project was created to make temporary email technology accessible to everyo
 
 **Live Demo:** [FreeCustom.Email](https://www.freecustom.email)
 
+![Landing page of FreeCustom.Email](https://i.ibb.co/YFm6VQVn/download.jpg)
 ---
 
 ## Hey, Hack Clubbers! 🚀
@@ -43,7 +44,7 @@ git clone https://github.com/DishantSinghDev2/freecustom.email.git
 Now, jump into the project folder:
 
 ```bash
-cd temp-mail
+cd freecustom.email
 ```
 
 ### Step 2: Install the Goodies (Dependencies)

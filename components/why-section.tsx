@@ -11,9 +11,19 @@ export function WhySection() {
           Freecustom.email provides a variety of domains for your disposable email addresses, ensuring flexibility for all your **temp mail** needs. Here are some of the domains you can use to create your instant **temporary email**:
         </p>
         <ul className="list-disc pl-5 mt-4 text-gray-700 dark:text-gray-200">
-          <li>saleis.live</li>
+        <li>saleis.live</li>
           <li>arrangewith.me</li>
-          {/* Add more domains as you have them */}
+          <li>areureally.info</li>
+          <li>ditapi.info</li>
+          <li>ditcloud.info</li>
+          <li>ditdrive.info</li>
+          <li>ditgame.info</li>
+          <li>ditlearn.info</li>
+          <li>ditpay.info</li>
+          <li>ditplay.info</li>
+          <li>ditube.info</li>
+          <li>junkstopper.info</li>
+          <li>whatsyour.info</li>
         </ul>
         <p className="mt-4 text-gray-600 dark:text-gray-300">
           Having multiple domain choices means if one service blocks a common **temp mail** domain, you have alternatives ready.
@@ -25,9 +35,7 @@ export function WhySection() {
         <h2 className="mb-4 text-3xl font-extrabold text-gray-800 dark:text-gray-100">What is Disposable Temporary E-mail (Temp Mail)?</h2>
         <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
           A disposable email, often called **temp mail**, is a free email service that allows you to receive emails at a temporary address that self-destructs after a specified period. Also known by names such as 10minutemail, **throwaway email**, fake email generator, **burner mail**, or trash-mail, these **disposable temporary email** services are crucial for avoiding spam and protecting your online privacy. Learn more about{' '}
-          <Link href="/blog/how-to-create-temp-mail">
             how to create your own temp mail
-          </Link>.
         </p>
         <p className="text-gray-600 dark:text-gray-300 leading-relaxed mt-4">
           Many websites, forums, and Wi-Fi owners ask visitors to register before they can access content, post comments, or download something. Freecustom.email offers a modern, advanced **throwaway mail** service to help you stay safe and avoid unwanted emails. Our platform ensures you can get a **free temporary email** instantly, without hassle.
@@ -42,9 +50,7 @@ export function WhySection() {
         </p>
         <p className="text-gray-600 dark:text-gray-300 leading-relaxed mt-4">
           While some might misunderstand, **temp mail** services like ours serve many legitimate purposes. Considering{' '}
-          <Link href="/blog/is-temp-mail-safe">
             if temp mail is safe
-          </Link>
           ? For these uses, absolutely:
         </p>
         <ul className="mt-4 space-y-3">
@@ -101,23 +107,17 @@ export function WhySection() {
           <li className="flex items-start dark:text-gray-200">
             <FaCheckCircle className="text-green-500 mt-1 mr-2 flex-shrink-0" />
             Reliable **temp mailbox** access for the duration you need. For more on this, see{' '}
-            <Link className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline" href="/blog/how-long-does-temp-mail-lasts">
                 how long temp mail typically lasts
-            </Link>.
           </li>
           <li className="flex items-start dark:text-gray-200">
             <FaCheckCircle className="text-green-500 mt-1 mr-2 flex-shrink-0" />
             A user-friendly, straightforward, and **fast loading** design. We pride ourselves on our{' '}
-            <Link className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline" href="/blog/why-we-are-fastest">
                 PageSpeed scores
-            </Link>.
           </li>
            <li className="flex items-start dark:text-gray-200">
             <FaCheckCircle className="text-green-500 mt-1 mr-2 flex-shrink-0" />
             A commitment to being **ad free forever** and charging nothing. Read about our{' '}
-            <Link className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline" href="/blog/forever-free-and-ad-free">
                 ad-free promise
-            </Link>.
           </li>
         </ul>
         <p className="text-gray-600 dark:text-gray-300 leading-relaxed mt-4">
@@ -133,9 +133,7 @@ export function WhySection() {
         </p>
         <p className="text-gray-600 dark:text-gray-300 leading-relaxed mt-4">
           If a **disposable email account** from our service is compromised or you suspect any suspicious activity, you can simply discard it and create a new one in seconds without affecting your primary email. For a step-by-step guide, check out our post on{' '}
-          <Link className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline" href="/blog/how-to-create-temp-mail">
             creating a temp mail
-          </Link>.
         </p>
       </div>
 
@@ -147,9 +145,7 @@ export function WhySection() {
         </p>
         <p className="text-gray-600 dark:text-gray-300 leading-relaxed mt-4">
           Ready to get started? Visit our homepage or dive into our {' '}
-          <Link className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 underline" href="/blog/best-practices-for-using-temp-mail">
-            best practices for using temporary email
-          </Link> to make the most of our service.
+            best practices for using temporary email to make the most of our service.
         </p>
       </div>
     </section>
