@@ -12,7 +12,7 @@ export function getAllPostSlugs() {
 }
 
 export async function getPostBySlug(slug: string) {
-    const res = await fetch(`https://www.freecustom.email/blog/${slug}.md`) // if in public/blog/
+    const res = await fetch(`http://localhost:3000/blog/${slug}.md`) // if in public/blog/
     const fileContent = await res.text()
   
     const { data, content } = matter(fileContent)

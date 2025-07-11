@@ -7,6 +7,7 @@ import { WhySection } from "@/components/why-section"
 import { ThemeProvider } from "@/components/theme-provider"
 import Link from "next/link"
 import { DITMailPopup } from "@/components/DITMailPopup"
+import Status from "@/components/Status"
 
 export default function Page() {
   return (
@@ -16,6 +17,7 @@ export default function Page() {
         <main className="mx-auto m-2 px-4 py-8">
           <section className="mb-12">
             <EmailBox />
+            <Status />
             <h1
               className="mt-6 text-xl sm:text-2xl md:text-3xl font-semibold"
               suppressHydrationWarning
