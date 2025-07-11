@@ -7,8 +7,6 @@ This project was created to make temporary email technology accessible to everyo
 
 **Live Demo:** [FreeCustom.Email](https://www.freecustom.email)
 
-
-
 ---
 
 ## Hey, Hack Clubbers! 🚀
@@ -39,7 +37,7 @@ Follow these simple steps to get your temp mail website up and running.
 Open your terminal (like Terminal on Mac, or Git Bash/WSL on Windows) and run this command:
 
 ```bash
-git clone https://github.com/DishIs/temp-mail.git
+git clone https://github.com/DishantSinghDev2/freecustom.email.git
 ```
 
 Now, jump into the project folder:
