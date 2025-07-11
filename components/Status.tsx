@@ -90,7 +90,7 @@ export default function Status() {
     }
 
     return (
-        <div className="bg-white dark:bg-gray-900/50 p-6 m-5 rounded-2xl shadow-lg border border-gray-200 dark:border-gray-800 backdrop-blur-sm">
+        <div className="bg-white dark:bg-gray-900/50 p-6 mt-5 rounded-2xl shadow-lg border border-gray-200 dark:border-gray-800 backdrop-blur-sm">
             <h2 className="text-xl font-bold text-gray-800 dark:text-white mb-6 tracking-wide">System Status</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="bg-blue-50 dark:bg-blue-900/30 p-5 rounded-xl">
