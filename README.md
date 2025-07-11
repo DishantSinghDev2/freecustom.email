@@ -66,6 +66,8 @@ This is the most important part! You need to tell the app how to talk to the bac
         *   `X-RapidAPI-Key`: This is your secret key.
         *   `X-RapidAPI-Host`: This is `temp-mail-maildrop1.p.rapidapi.com`.
 
+![Screenshot of RapidAPI copying the key](https://i.ibb.co/9dvqVgC/Screenshot-2025-07-12-at-1-20-43-AM-1.png)
+
 2.  **Create Your Secrets File:**
     *   In your project folder, find the file named `.env.example`.
     *   Duplicate this file and rename the copy to just `.env`.
